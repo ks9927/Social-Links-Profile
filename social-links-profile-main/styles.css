@@ -5,10 +5,11 @@ body {
   display: flex;
   justify-content: center;
   align-content: center;
+  margin-top: 50px;
 }
 
 .card {
-  width: 450px;
+  width: 430px;
   height: 650px;
   background-color: hsl(0, 0%, 12%);
   display: flex;

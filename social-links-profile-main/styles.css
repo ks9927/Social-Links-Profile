@@ -9,7 +9,7 @@ body {
 
 .card {
   width: 450px;
-  height: 700px;
+  height: 650px;
   background-color: hsl(0, 0%, 12%);
   display: flex;
   justify-content: center;
@@ -62,5 +62,8 @@ button {
   padding: 22px 22px;
   margin-top: 18px;
   border-radius: 10px;
+}
+.github-button {
+  margin-top: 30px;
 }
 

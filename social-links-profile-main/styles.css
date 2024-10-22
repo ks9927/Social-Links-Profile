@@ -63,14 +63,13 @@ button {
   padding: 22px 22px;
   margin-top: 18px;
   border-radius: 10px;
-  transition: ease 0.10s;
+  transition: ease-in-out 0.20s;
 }
 
 button:hover {
   background-color: hsl(75, 94%, 57%);
   color: hsl(0, 0%, 20%);
-  cursor: pointer;
-  cursor: url('assets/images/cursor-black.png'), auto;
+  cursor: url('assets/images/pointed-black-cursor.png'), auto;
 }
 .github-button {
   margin-top: 30px;

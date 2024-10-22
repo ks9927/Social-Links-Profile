@@ -2,12 +2,18 @@ body {
   font-family: "Inter";
   font-size: 14px;
   background-color: hsl(0, 0%, 8%);
+  display: flex;
+  justify-content: center;
+  align-content: center;
 }
 
 .card {
-  width: 300;
-  height: 300;
+  width: 450px;
+  height: 700px;
   background-color: hsl(0, 0%, 12%);
+  display: flex;
+  justify-content: center;
+  align-content: center;
 }
 
 .profile-pic {

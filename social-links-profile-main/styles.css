@@ -3,3 +3,38 @@ body {
   font-size: 14px;
   background-color: hsl(0, 0%, 8%);
 }
+
+.card {
+  width: 300;
+  height: 300;
+  background-color: hsl(0, 0%, 12%);
+}
+
+.profile-pic {
+  border-radius: 50%;
+}
+
+.author-name {
+  color:white;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.city-name {
+  color: hsl(75, 94%, 57%) ;
+  font-size: 15px;
+  font-weight: 600;
+}
+
+.description {
+  color: white;
+}
+
+button {
+  background-color: hsl(0, 0%, 20%);
+  color: white;
+  height: 200;
+  width: 300;
+  border: solid hsl(0, 0%, 20%);
+}
+

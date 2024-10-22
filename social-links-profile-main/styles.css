@@ -64,6 +64,12 @@ button {
   margin-top: 18px;
   border-radius: 10px;
 }
+
+button:hover {
+  background-color: hsl(75, 94%, 57%);
+  color: hsl(0, 0%, 20%);
+  cursor: pointer;
+}
 .github-button {
   margin-top: 30px;
 }

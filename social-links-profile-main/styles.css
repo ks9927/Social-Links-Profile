@@ -5,11 +5,10 @@ body {
   display: flex;
   justify-content: center;
   align-content: center;
-  margin-top: 50px;
 }
 
 .card {
-  width: 430px;
+  width: 400px;
   height: 650px;
   background-color: hsl(0, 0%, 12%);
   display: flex;
@@ -71,6 +70,7 @@ button:hover {
   color: hsl(0, 0%, 20%);
   cursor: url('assets/images/pointed-black-cursor.png'), auto;
 }
+
 .github-button {
   margin-top: 30px;
 }
